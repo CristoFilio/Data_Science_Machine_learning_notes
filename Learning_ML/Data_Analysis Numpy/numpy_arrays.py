@@ -50,3 +50,4 @@ print(reshape_array_one, '\n Reshaped array one to a 2D matrix of 5 by 5 note: n
 print(rand_arr.max(), 'is the max value of array one, located at {} postion\n'.format(rand_arr.argmax()))
 print(' {} is the min value in the random array located at position {}\n'.format(rand_arr.min(),rand_arr.argmin()))
 print('The shape of the reshaped array one is {}'.format(reshape_array_one.shape))
+
