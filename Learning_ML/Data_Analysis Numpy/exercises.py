@@ -23,3 +23,4 @@ print(array[3:,:])
 
 print(array.sum())
 print(array.sum(array[::,:1]))
+
