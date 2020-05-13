@@ -26,3 +26,4 @@ print(ser2, '\n Series 2\n')
 print(ser1['USA'], '\nThis is indexing the value of USA\n')
 
 print(ser1+ser2, '\nSeries can be added if the labels match, and return nan if they dont\n')
+
