@@ -24,3 +24,4 @@ df.drop('E', axis=0, inplace=True)
 print(df, '\nIn order to drop the row permanently you have to use inplace=True')
 
 
+
