@@ -40,3 +40,4 @@ print(array_2d[:2,:2], '\n To grab a section of the array u do from row to but n
 
 print('Indexing can also be done from conditions\n')
 print(array_2d[array_2d > 15], '\Print values in the array that are greater than 15')
+
