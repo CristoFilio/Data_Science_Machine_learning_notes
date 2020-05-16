@@ -17,3 +17,4 @@ df3[0:30].plot.area(alpha=.7)
 plt.legend(loc='center left',bbox_to_anchor=(.99,0.5))
 
 plt.show()
+
